@@ -1,0 +1,1 @@
+SELECT * FROM customer_trusted JOIN accelerometer_landing on customer_trusted.email = accelerometer_landing.user limit 1000;
